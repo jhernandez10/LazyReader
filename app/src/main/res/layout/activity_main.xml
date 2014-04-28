@@ -9,9 +9,5 @@
     android:background="#151515"
     tools:context="com.example.lazyreader.app.MainActivity">
 
-    <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@drawable/test"/>
 
 </RelativeLayout>
